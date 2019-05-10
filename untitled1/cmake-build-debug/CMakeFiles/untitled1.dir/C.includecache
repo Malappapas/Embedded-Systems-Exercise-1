@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/konst/CLionProjects/untitled1/main.c
+unistd.h
+-
+sys/time.h
+-
+time.h
+-
+math.h
+-
+stdio.h
+-
+
